@@ -27,7 +27,13 @@ Examples...
 
 ```pig``` becomes ```igpay```.
 
+
+# Status
+
+Still in development, ot in condition to use
+
 # Contribute to this repo
 
 This repository is open to any suggestions and contributions
 
+## Stay Cool, Stay Awesome !
